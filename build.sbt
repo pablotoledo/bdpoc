@@ -14,6 +14,8 @@ libraryDependencies += "org.scala-lang" % "scala-reflect" % "2.10.6"
 // https://mvnrepository.com/artifact/org.scala-lang/scala-compiler
 libraryDependencies += "org.scala-lang" % "scala-compiler" % "2.10.6"
 
+libraryDependencies += "org.scalatest" % "scalatest_2.10" % "2.2.1"
+
 // https://mvnrepository.com/artifact/org.scalatest/scalatest_2.10
 libraryDependencies += "org.scalatest" %% "scalatest" % "2.2.4" % "test"
 // https://mvnrepository.com/artifact/org.scala-lang.modules/scala-xml_2.11
